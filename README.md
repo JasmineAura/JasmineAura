@@ -57,11 +57,6 @@ An open-source project. Check out the repository for details.
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=JasmineAura&style=flat-square&color=blueviolet)
-
-</div>
 
 **Keep exploring. Keep breaking. Keep learning.**
 
