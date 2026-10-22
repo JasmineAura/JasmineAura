@@ -17,11 +17,10 @@
 
 I'm **Aura**, a cybersecurity enthusiast passionate about understanding how systems work, identifying vulnerabilities, and exploring the digital world.
 
-- 🔎 **Digital Forensics** — Memory forensics, network traffic analysis, and Windows artifacts
-- ⛓️ **Smart Contract Auditing** — Solidity, EVM security, and blockchain vulnerabilities
-- 🛡️ **Penetration Testing** — Web security, vulnerability research, and exploitation
-- 🚩 **CTF Competitions** — Forensics, Misc, Reverse Engineering and Web
-- 🛠️ **Open Source** — Building security tools and sharing knowledge
+- 🔎 **Digital Forensics**
+- ⛓️ **Smart Contract Auditing**
+- 🛡️ **Penetration Testing**
+- 🚩 **CTF Competitions**
 
 ### 🚀 Featured Projects
 
