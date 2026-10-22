@@ -5,8 +5,6 @@
 
 **Cybersecurity Researcher · CTF Player · Open Source Developer**
 
-*Explore. Exploit. Analyze. Secure.*
-
 [![Blog](https://img.shields.io/badge/Blog-aurasec.top-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aurasec.top)
 [![GitHub](https://img.shields.io/badge/GitHub-JasmineAura-181717?style=for-the-badge&logo=github)](https://github.com/JasmineAura)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1141908922463170691)
